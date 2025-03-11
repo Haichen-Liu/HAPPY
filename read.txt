@@ -1,1 +1,1 @@
-This model is based on YOLOPose and VideoPose, and we will update the project in August 2025
+This model is based on YOLOPose, and we will update the project in August 2025
